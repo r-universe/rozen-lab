@@ -8,3 +8,8 @@
 	url = https://github.com/rozen-lab/cosmicsig
 	shallow = true
 	registered = true
+[submodule "mSigTools"]
+	path = mSigTools
+	url = https://github.com/rozen-lab/msigtools
+	shallow = true
+	registered = true
