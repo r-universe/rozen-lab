@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cosmicsig"]
 	path = cosmicsig
 	url = https://github.com/rozen-lab/cosmicsig
-	shallow = true
-	registered = true
 [submodule "mSigTools"]
 	path = mSigTools
 	url = https://github.com/rozen-lab/msigtools
-	shallow = true
-	registered = true
